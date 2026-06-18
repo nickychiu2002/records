@@ -9,6 +9,7 @@ body {
   padding: 0;
   overflow-x: hidden;
   font-family: "TASA Orbiter", sans-serif;
+  overflow-y: hidden;
 }
 
 .container {
