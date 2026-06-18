@@ -102,6 +102,10 @@ h1 {
   height: 40px;
 }
 
+.note_div{
+  height: 27px;
+}
+
 #date, #type, #category, #amount, #note{
   border: #53d24d;
   background-color: rgb(255, 255, 255);
