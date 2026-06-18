@@ -3,7 +3,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  width: 402px;
+  width: 100vw;
   height: 100vh;
   margin: 0;
   padding: 0;
@@ -27,7 +27,7 @@ body {
 }
 
 header{
-  width: 402px;
+  width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -60,7 +60,7 @@ h1 {
 }
 .income_div, .expense_div{
   display: flex;
-  width: 200px;
+  width: 50vw;
   flex-direction: column;
   justify-content: center;
   padding: 10px 20px;
@@ -113,22 +113,22 @@ h1 {
   outline: none;
 }
 #date{
-  width: 290px;
+  width: 72vw;
   height: 2.6vh;
 }
 
 #type, #category{
-  width: 290px;
+  width: 72vw;
   height: 2.6vh;
 }
 
 #amount{
-  width: 290px;
+  width: 72vw;
   height: 2.5vh;
 }
 
 #note{
-  width: 290px;
+  width: 72vw;
   height: 1.5vh;
   padding: 3px 0;
 }
@@ -152,7 +152,7 @@ input::placeholder, textarea::placeholder {
   align-items: center;
   padding: 0;
   /* margin: 10px; */
-  width: 310px;
+  width: 77vw;
   /* height: 2.5vh; */
   border-radius: 24px;
 }
