@@ -113,18 +113,21 @@ h1 {
   outline: none;
 }
 #date{
-  width: 72vw;
-  height: 2.6vh;
+  width: 70vw;
+  height: 2.3vh;
 }
 
 #type, #category{
   width: 72vw;
   height: 2.6vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 #amount{
-  width: 72vw;
-  height: 2.5vh;
+  width: 70vw;
+  height: 2.3vh;
 }
 
 #note{
