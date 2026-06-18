@@ -113,26 +113,26 @@ h1 {
   outline: none;
 }
 #date{
-  width: 70vw;
+  width: 280px;
   height: 2.3vh;
 }
 
 #type, #category{
-  width: 8vw;
-  height: 2.6vh;
+  width: 280px;
+  height: 27px;
   justify-content: center;
   align-items: center;
   text-align: center;
 }
 
 #amount{
-  width: 70vw;
-  height: 2.3vh;
+  width: 280px;
+  height: 27px;
 }
 
 #note{
-  width: 70vw;
-  height: 2.3vh;
+  width: 280px;
+  height: 27px;
   padding: 3px 0;
 }
 
@@ -155,7 +155,7 @@ input::placeholder, textarea::placeholder {
   align-items: center;
   padding: 0;
   /* margin: 10px; */
-  width: 77vw;
+  width: 280px;
   /* height: 2.5vh; */
   border-radius: 24px;
 }
@@ -215,6 +215,7 @@ input::placeholder, textarea::placeholder {
   border: 1px solid #335D45;
   color: #335D45;
   transition: transform 0.15s ease;
+  margin-bottom: 65px;
 }
 
 #sheetBtn:hover{
