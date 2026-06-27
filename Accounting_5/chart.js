@@ -19,7 +19,7 @@ const CATEGORY_ORDER = [
 ];
 
 const CATEGORY_COLORS = {
-    "娛樂": "#ffcb77",
+    "娛樂": "#fdc73e",
     "飲食": "#227c9d",
     "服飾": "#fff8eb",
     "交通": "#8EC8BA",
@@ -37,7 +37,7 @@ function getCategoryColor(label, ctx) {
     switch (label) {
 
         case "娛樂":
-            return"#ffcb77";
+            return"#fdc73e";
             // const gradient = ctx.createLinearGradient(0, 0, 200, 200);
             // gradient.addColorStop(0, "#ffe196");
             // gradient.addColorStop(0.3, "#ffe196");
