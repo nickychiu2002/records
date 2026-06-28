@@ -32,7 +32,7 @@ const sheetButton =
 document.getElementById("sheetBtn");
 
 const SHEET_URL =
-"https://docs.google.com/spreadsheets/d/1dFYidVyTWDljbhNwUR7ASsZ80_0g8gNl7f6Z1NHMHqE/edit";
+"https://docs.google.com/spreadsheets/d/1eTb226LWxWTerrrO4wVPTFofLPSRjx5Vj6nkEoQ-oo4/edit?gid=0#gid=0";
 
 let currentIncome = 0;
 let currentExpense = 0;
